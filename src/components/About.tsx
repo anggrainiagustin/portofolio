@@ -5,10 +5,8 @@ import { Palette, FileText, LayoutDashboard, Coffee } from 'lucide-react'
 import profilePhoto from '../assets/foto profile.jpeg'
 
 const stats = [
-  { value: '10+', label: 'Proyek Selesai' },
-  { value: 'S1', label: 'Teknologi Informasi' },
+  { value: 'D3', label: 'Teknik Informatika' },
   { value: '3+', label: 'Sertifikasi' },
-  { value: '8+', label: 'Teknologi' },
 ]
 
 const highlights = [

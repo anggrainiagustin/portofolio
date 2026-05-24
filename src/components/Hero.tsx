@@ -89,12 +89,6 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.4 }}
           className="flex items-center justify-center gap-4 flex-wrap mb-12"
         >
-          <a
-            href="#projects"
-            className="px-8 py-3.5 rounded-full bg-violet-600 hover:bg-violet-500 text-white font-medium transition-all hover:scale-105 hover:shadow-lg hover:shadow-violet-600/30"
-          >
-            Lihat Proyek
-          </a>
           <button
             onClick={openCV}
             className="px-8 py-3.5 rounded-full border border-slate-700 hover:border-violet-500 text-slate-300 hover:text-violet-400 font-medium transition-all flex items-center gap-2"
